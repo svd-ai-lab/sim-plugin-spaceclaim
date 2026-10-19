@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved.** `sim-plugin-spaceclaim` is now developed in [svd-ai-lab/sim-cli](https://github.com/svd-ai-lab/sim-cli/tree/main/plugins/spaceclaim) under `plugins/spaceclaim`. This repository is archived and read-only; please open issues and pull requests in sim-cli.
+>
+> Install: `uv add sim-cli-core "sim-plugin-spaceclaim @ git+https://github.com/svd-ai-lab/sim-cli.git#subdirectory=plugins/spaceclaim"`
+
 # sim-plugin-spaceclaim
 
 SpaceClaim skill package for Codex/sim workflows.
